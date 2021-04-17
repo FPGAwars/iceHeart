@@ -446,7 +446,7 @@
               "id": "771574b9-03cd-4b8f-99f1-960f68b39b44",
               "type": "basic.info",
               "data": {
-                "info": "Values for N\n\n| Value | Division by |\n|-------|-------------|\n| 0     |  No signal  |\n| 1     |    2        |\n| 2     |    3        |\n| 3     |    4        |",
+                "info": "Values for N\n\n| Value | Division by |\n|-------|-------------|\n| 0     |  No div. Signal to 1  |\n| 1     |    2        |\n| 2     |    3        |\n| 3     |    4        |",
                 "readonly": true
               },
               "position": {
@@ -505,27 +505,6 @@
             },
             {
               "source": {
-                "block": "1953552c-99fc-440d-a2ef-dd7a684cb3e0",
-                "port": "4e8afe74-8f38-4873-97ee-f7585d99a4aa"
-              },
-              "target": {
-                "block": "4e8afe74-8f38-4873-97ee-f7585d99a4aa",
-                "port": "in"
-              }
-            },
-            {
-              "source": {
-                "block": "9a655b2b-bb0f-45b3-8b36-30330f3c6c64",
-                "port": "260e86a2-5bb2-467c-8e22-89b78112b481"
-              },
-              "target": {
-                "block": "1953552c-99fc-440d-a2ef-dd7a684cb3e0",
-                "port": "4e04cf57-df6a-4731-8426-5d45850cbc29"
-              },
-              "size": 2
-            },
-            {
-              "source": {
                 "block": "05960474-8cf5-4b2b-bd51-1c33707a563a",
                 "port": "out"
               },
@@ -543,6 +522,27 @@
               "target": {
                 "block": "1953552c-99fc-440d-a2ef-dd7a684cb3e0",
                 "port": "cafb11f4-8366-4ea4-96dc-09421b1ab171"
+              },
+              "size": 2
+            },
+            {
+              "source": {
+                "block": "1953552c-99fc-440d-a2ef-dd7a684cb3e0",
+                "port": "4e8afe74-8f38-4873-97ee-f7585d99a4aa"
+              },
+              "target": {
+                "block": "4e8afe74-8f38-4873-97ee-f7585d99a4aa",
+                "port": "in"
+              }
+            },
+            {
+              "source": {
+                "block": "9a655b2b-bb0f-45b3-8b36-30330f3c6c64",
+                "port": "260e86a2-5bb2-467c-8e22-89b78112b481"
+              },
+              "target": {
+                "block": "1953552c-99fc-440d-a2ef-dd7a684cb3e0",
+                "port": "4e04cf57-df6a-4731-8426-5d45850cbc29"
               },
               "size": 2
             }
