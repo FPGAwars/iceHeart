@@ -107,7 +107,7 @@
           "type": "basic.constant",
           "data": {
             "name": "N",
-            "value": "'h1000",
+            "value": "4096",
             "local": false
           },
           "position": {
