@@ -51,6 +51,8 @@ For installing and using this colection in Icestudio follow these steps:
     * Sysclk_divN_var
   * **03-bits**
     * Sysclk_divN
+  * **04-bits**
+    * Sysclk_divN
   * **05-bits**
     * Sysclk_divN
   * **06-bits**
