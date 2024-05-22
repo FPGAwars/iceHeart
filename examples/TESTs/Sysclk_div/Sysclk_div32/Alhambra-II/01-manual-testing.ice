@@ -62,7 +62,7 @@
           }
         },
         {
-          "id": "be3a49fc-d19f-4d3c-86cb-223279f0fd2e",
+          "id": "b0fabe0a-bf45-4dfd-a2a6-75c2ee6779d9",
           "type": "b23658962e1f7e7b908c9d6143f8ac2a920a6bc9",
           "position": {
             "x": 1232,
@@ -88,7 +88,7 @@
         },
         {
           "source": {
-            "block": "be3a49fc-d19f-4d3c-86cb-223279f0fd2e",
+            "block": "b0fabe0a-bf45-4dfd-a2a6-75c2ee6779d9",
             "port": "4e8afe74-8f38-4873-97ee-f7585d99a4aa"
           },
           "target": {
