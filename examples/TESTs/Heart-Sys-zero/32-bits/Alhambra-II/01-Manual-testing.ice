@@ -87,8 +87,8 @@
           }
         },
         {
-          "id": "79776367-fccb-476e-94bc-6ecf88ef272b",
-          "type": "da52c0b0d313468ccd04fb00543060f45db62e29",
+          "id": "67ae66d4-6457-4276-bc82-97806ece4030",
+          "type": "b479688ca0038a5ff3e5c5cd21751e289d7df182",
           "position": {
             "x": 832,
             "y": 320
@@ -106,7 +106,7 @@
             "port": "cd1ea929-712d-45ee-8b01-e608e6bf8869"
           },
           "target": {
-            "block": "79776367-fccb-476e-94bc-6ecf88ef272b",
+            "block": "67ae66d4-6457-4276-bc82-97806ece4030",
             "port": "a95e724c-148d-4ea1-b6e5-5186c82520df"
           },
           "size": 32
@@ -123,7 +123,7 @@
         },
         {
           "source": {
-            "block": "79776367-fccb-476e-94bc-6ecf88ef272b",
+            "block": "67ae66d4-6457-4276-bc82-97806ece4030",
             "port": "4e8afe74-8f38-4873-97ee-f7585d99a4aa"
           },
           "target": {
@@ -301,10 +301,10 @@
         }
       }
     },
-    "da52c0b0d313468ccd04fb00543060f45db62e29": {
+    "b479688ca0038a5ff3e5c5cd21751e289d7df182": {
       "package": {
         "name": "Heart-sys-zero-32bits",
-        "version": "0.2",
+        "version": "0.3",
         "description": "Heart-sys-zero-32bits: Generate a periodic signal of period T cycles. It starts at cycle 0. It never stops",
         "author": "Juan González-Gómez (Obijuan)",
         "image": "%3Csvg%20width=%22267.83%22%20height=%22235.568%22%20viewBox=%220%200%2070.863319%2062.327419%22%20xmlns=%22http://www.w3.org/2000/svg%22%3E%3Cg%20transform=%22translate(-49.44%20-45.386)%22%3E%3Cpath%20d=%22M82.767%20103.823c-1.059-1.823-2.701-3.608-5.813-6.317-1.686-1.468-2.712-2.283-8.55-6.794-4.577-3.536-6.86-5.497-9.506-8.167-2.645-2.67-4.2-4.797-5.533-7.57-.851-1.77-1.436-3.477-1.8-5.25-.463-2.252-.526-3.014-.523-6.33.003-4.352.146-5.075%201.575-7.978%201.062-2.156%201.868-3.291%203.548-4.997%201.63-1.655%202.69-2.407%204.979-3.539%202.544-1.258%204.384-1.588%208.174-1.466%202.945.095%204.023.388%206.358%201.732%203.675%202.115%206.526%205.51%207.316%208.709.129.523.262.952.295.952.034%200%20.332-.612.662-1.36%201.122-2.544%202.164-4.095%203.82-5.692%205.07-4.889%2013.065-5.772%2019.528-2.16%202.64%201.475%204.788%203.622%206.452%206.451%201.31%202.226%201.98%205.183%202.095%209.245.165%205.884-.911%209.962-3.776%2014.308-1.137%201.725-1.978%202.77-3.555%204.416-2.544%202.658-4.839%204.611-10.256%208.731-3.418%202.6-5.445%204.271-8.377%206.914-2.35%202.117-5.991%205.803-6.342%206.419-.153.27-.292.49-.308.49-.016%200-.224-.336-.463-.747z%22%20fill=%22red%22/%3E%3Cg%20transform=%22matrix(.79321%200%200%20.79321%2028.715%2037.275)%22%20stroke=%22green%22%20stroke-linecap=%22round%22%3E%3Ccircle%20r=%2214.559%22%20cy=%2273.815%22%20cx=%22100.602%22%20fill=%22#ececec%22%20stroke-width=%22.608%22%20stroke-linejoin=%22round%22/%3E%3Cpath%20d=%22M106.978%2082.142h-3.353V63.316H97.54v18.678h-3.652%22%20fill=%22none%22%20stroke-width=%221.521%22/%3E%3C/g%3E%3Cg%20transform=%22matrix(.89397%200%200%20.89397%20106.937%20-105.28)%22%20stroke-width=%221.119%22%3E%3Ccircle%20r=%2212.621%22%20cy=%22225.339%22%20cx=%22-51.401%22%20fill=%22#ececec%22%20stroke=%22green%22%20stroke-width=%22.59%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22/%3E%3Ctext%20y=%22232.146%22%20x=%22-58.633%22%20style=%22line-height:0%25%22%20font-weight=%22400%22%20font-size=%2235.282%22%20letter-spacing=%220%22%20word-spacing=%220%22%20transform=%22scale(.99853%201.00147)%22%20font-family=%22sans-serif%22%20fill=%22#00f%22%20stroke-width=%22.732%22%3E%3Ctspan%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22%20y=%22232.146%22%20x=%22-58.633%22%20font-weight=%22700%22%20font-size=%2220.162%22%3E0%3C/tspan%3E%3C/text%3E%3C/g%3E%3Crect%20width=%2235.828%22%20height=%2219.351%22%20x=%2264.354%22%20y=%2261.538%22%20ry=%223.297%22%20fill=%22#fff%22%20stroke=%22#000%22%20stroke-width=%221.165%22%20stroke-linecap=%22round%22/%3E%3Ctext%20style=%22line-height:1.25%22%20x=%2267.208%22%20y=%2275.582%22%20font-weight=%22400%22%20font-size=%2215.533%22%20font-family=%22sans-serif%22%20fill=%22#00f%22%20stroke-width=%22.388%22%3E%3Ctspan%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22%20x=%2267.208%22%20y=%2275.582%22%20font-weight=%22700%22%3ESys%3C/tspan%3E%3C/text%3E%3C/g%3E%3C/svg%3E",
@@ -741,7 +741,8 @@
             {
               "source": {
                 "block": "a95e724c-148d-4ea1-b6e5-5186c82520df",
-                "port": "out"
+                "port": "out",
+                "size": 32
               },
               "target": {
                 "block": "bc8b1751-10a7-4c32-813c-3ad3a4428400",
@@ -756,7 +757,8 @@
               },
               "target": {
                 "block": "cb30f70a-b59b-47de-a470-9056f79f9eae",
-                "port": "12747bd0-f54f-4edc-91fa-7cd86de9d05c"
+                "port": "12747bd0-f54f-4edc-91fa-7cd86de9d05c",
+                "size": 32
               },
               "size": 32
             },
@@ -787,14 +789,16 @@
               },
               "target": {
                 "block": "7d4f16a2-13fc-484e-b82f-83563b6cbf55",
-                "port": "in"
+                "port": "in",
+                "size": 32
               },
               "size": 32
             },
             {
               "source": {
                 "block": "cb30f70a-b59b-47de-a470-9056f79f9eae",
-                "port": "1b2c0e74-24ee-4b68-8bb9-2b4931f5d9b4"
+                "port": "1b2c0e74-24ee-4b68-8bb9-2b4931f5d9b4",
+                "size": 32
               },
               "target": {
                 "block": "b1a10017-fefa-4904-bbdd-33d96cac6530",
