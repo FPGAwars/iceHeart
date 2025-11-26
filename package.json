@@ -1,6 +1,6 @@
 {
   "name": "iceheart",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Icestudio Collection for timing signal generation (hearts)",
   "keywords": ["hearts", "timing", "generators"],
   "license": "GPL-2.0",
